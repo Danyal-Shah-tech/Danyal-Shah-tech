@@ -106,8 +106,7 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
     <div style="flex: 1; min-width: 48%;">
-        <a href="https://github.com/iamarslankhalid">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamarslankhalid&theme=default" alt="Arslan's GitHub Contribution" style="border-radius: 10px; margin-bottom: 5px; width: 100%; height: auto;" />
+        <a href="https://github.com/Danyal-Shah-tech">
         </a>
 
 <!-- <div style="display: flex; justify-content: space-between;">
