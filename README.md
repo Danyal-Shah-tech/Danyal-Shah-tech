@@ -31,9 +31,9 @@ Here are some ideas to get you started:
     </a>
     <a href="mailto:danialshah989@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </div>
-  </br>
-  <img src="https://komarev.com/ghpvc/?username=iamarslankhalid&style=flat-square&color=blue" alt=""/>
+  </div> 
+      <br> 
+      <img src="https://komarev.com/ghpvc/?username=Danyal-Shah-tech&style=flat-square&color=blue" alt=""/> 
   </div>
 
 <h3 align='center'><strong><a href="https://www.linkedin.com/in/danyal-shah-022258210/" target="_blank">Portfolio🌐</a></strong></h3>
@@ -47,6 +47,13 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 - :seedling: Exploring and working on various Data Science and Machine Learning projects and learning Artificial Intelligence and Data Science.
 
 - :zap: In my free time, I enjoy learning new data science techniques, working on personal projects, and reading tech articles.
+
+## 👨‍💻 About Me
+
+🎓 BS Computer Science Student at COMSATS University Islamabad (GPA: 4.00/4.00)
+🤖 Passionate about Machine Learning, NLP, and AI-driven solutions
+🚀 Hands-on experience in Chatbots, Data Analytics, Model Deployment & Predictive Modeling
+🌍 Exploring FinTech, AI automation, and Data Science applications
 
 ## 🚀 Skills
 
@@ -86,7 +93,20 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 
+## 🚀 Projects
+📌 Loan Approval Prediction - Achieved 98% accuracy using Logistic Regression & Random Forest
 
+📌 AI Chatbot for Customer Support - Built using Hugging Face Transformers & OpenAI API
+
+📌 Sentiment Analysis on Social Media Data - Achieved 94% accuracy using BERT & VADER
+
+📌 BI Dashboard for Business Insights - Developed using Power BI & SQL
+
+## 📊 GitHub Stats
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Danyal-Shah-tech&show_icons=true&theme=radical" width="50%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Shah-tech&layout=compact&theme=radical" width="42%" /> 
+</div>
 
 <!-- --- -->
 
