@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**iamarslankhalid/iamarslankhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Danyal-Shah-tech/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,40 +21,30 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/Gmail-marslankhalid0300@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:marslankhalid0300@gmail.com)
 <br> -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Arslan Khalid</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Danyal Shah</strong></samp></h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/iamarslankhalid/">
+    <a href="https://www.linkedin.com/in/danyal-shah-022258210/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:iarslankhalidd@gmail.com">
+    <a href="mailto:danialshah989@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-      <a href="https://Kaggle.com/iamarslankhalid">
-      <img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-    </a>
-    <a href="https://www.instagram.com/_arslan.khalid/">
-      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://twitter.com/iamarslankhalid">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   </br>
   <img src="https://komarev.com/ghpvc/?username=iamarslankhalid&style=flat-square&color=blue" alt=""/>
   </div>
 
-<h3 align='center'><strong><a href="https://www.linkedin.com/in/iamarslankhalid/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://www.linkedin.com/in/danyal-shah-022258210/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Data Science | Machine Learning | Artificial Intelligence</p>
 
 <p align='left'> 📫 As someone who is always passionate about learning more about tech and life, A self-taught Data Scientist and an unstoppable learner. I have evolved into a Machine Learning career path and enjoy working with cutting-edge algorithms and technologies.</p>
 
 I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
-- :telescope: I’m studying BS Computer Science and working as a remote Data Science intern.
+- :telescope: I’m studying BS Computer Science.
 
-- :seedling: Exploring and working on various Data Science and Machine Learning projects and learning Artificial Intelligence and Data Science from [codanics](https://codanics.com/).
+- :seedling: Exploring and working on various Data Science and Machine Learning projects and learning Artificial Intelligence and Data Science.
 
 - :zap: In my free time, I enjoy learning new data science techniques, working on personal projects, and reading tech articles.
 
@@ -73,7 +63,7 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=white&labelColor=FFC012)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=powerbi&logoColor=white&labelColor=F2C811)
-![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=E97627)
+
 
 📚 **Libraries** <br>
 
@@ -96,15 +86,7 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 
-## 🔝 **Top Repo**
 
-<a href="https://github.com/iamarslankhalid/thyroid_disease_detection">
-    <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=iamarslankhalid&repo=thyroid_disease_detection" alt="Thyroid Disease Detection" />
-</a>
-
-<p align="left">
-  <a href="https://github.com/iamarslankhalid?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <!-- --- -->
 
