@@ -51,8 +51,11 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 ## 👨‍💻 About Me
 
 🎓 BS Computer Science Student at COMSATS University Islamabad (GPA: 4.00/4.00)
+
 🤖 Passionate about Machine Learning, NLP, and AI-driven solutions
+
 🚀 Hands-on experience in Chatbots, Data Analytics, Model Deployment & Predictive Modeling
+
 🌍 Exploring FinTech, AI automation, and Data Science applications
 
 ## 🚀 Skills
