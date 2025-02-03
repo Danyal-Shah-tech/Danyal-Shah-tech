@@ -94,20 +94,7 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume)-->
 
-## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> **Github Stats**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
-    <div style="flex: 1; min-width: 45%; margin: 10px;">
-        <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=iamarslankhalid" />
-    </div>
-    <div style="flex: 1; min-width: 45%; margin: 10px;">
-        <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarslankhalid&layout=compact" />
-    </div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-    <div style="flex: 1; min-width: 48%;">
-        <a href="https://github.com/Danyal-Shah-tech">
-        </a>
 
 <!-- <div style="display: flex; justify-content: space-between;">
  <div style="flex: 1; margin-right: 10px;">
