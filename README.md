@@ -128,6 +128,12 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 </div>
 
+<-- Section: Stats --> <h3>Stats</h3> <img src="https://github-readme-stats.vercel.app/api?username=Danyal-Shah-tech&show_icons=true&theme=radical&cache_seconds=86400" width="50%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Shah-tech&layout=compact&theme=radical&cache_seconds=86400" width="42%" /> 
+<-- Section: Summary Cards --> <h3>Profile Summary</h3> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyal-Shah-tech&theme=radical" width="80%" /> <div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danyal-Shah-tech&theme=radical" width="48%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danyal-Shah-tech&theme=radical" width="48%" /> </div> 
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danyal-Shah-tech&theme=radical" width="48%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danyal-Shah-tech&theme=radical&utcOffset=5" width="48%" /> 
+  </div> 
+</div>
+
 
 <!-- --- -->
 
@@ -255,6 +261,7 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 </div> -->
 
 <!-- --- -->
+
 
 
 
