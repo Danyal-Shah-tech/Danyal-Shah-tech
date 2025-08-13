@@ -234,22 +234,23 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <!-- --- -->
 
-<!-- ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Github Stats
+<-- ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Github Stats
 
 <div style="display: flex; justify-content: space-between;">
  <div style="flex: 1; margin-right: 10px;">
-        <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=iamarslankhalid" />
-        <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarslankhalid" />
+        <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=Danyal-Shah-tech" />
+        <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Danyal-Shah-tech" />
         <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarslankhalid&layout=compact&theme=default" />
 
 ### 📶 Contribution Graph
 <div style="flex: 1; margin-right: 10px;">
-        <img style="border-radius: 10px; margin-bottom: 5px; width: 100%; height: auto;" alt="GitHub Contribution Stats" src="https://ghchart.rshah.org/iamarslankhalid" />
+        <img style="border-radius: 10px; margin-bottom: 5px; width: 100%; height: auto;" alt="GitHub Contribution Stats" src="https://ghchart.rshah.org/Danyal-Shah-tech" />
 </div>
 
 ### 🔝 Top Contributed Repo
 <div style="flex: 1; margin-right: 10px;">
-        <img style="border-radius: 10px; margin-bottom: 5px; width: 80%; height: auto;" alt="GitHub Contribution Stats" src="https://github-contributor-stats.vercel.app/api?username=iamarslankhalid&limit=5&theme=default&combine_all_yearly_contributions=true" />
+        <img style="border-radius: 10px; margin-bottom: 5px; width: 80%; height: auto;" alt="GitHub Contribution Stats" src="https://github-contributor-stats.vercel.app/api?username=Danyal-Shah-tech&limit=5&theme=default&combine_all_yearly_contributions=true" />
 </div> -->
 
 <!-- --- -->
+
