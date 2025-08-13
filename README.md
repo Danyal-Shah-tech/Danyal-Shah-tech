@@ -108,6 +108,8 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ## 📊 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danyal-Shah-tech&show_icons=true&theme=tokyonight)
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Danyal-Shah-tech&show_icons=true&theme=radical&cache_seconds=86400" width="50%" />
@@ -253,5 +255,6 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 </div> -->
 
 <!-- --- -->
+
 
 
