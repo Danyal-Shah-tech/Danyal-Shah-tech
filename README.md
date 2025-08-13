@@ -50,13 +50,13 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ## 👨‍💻 About Me
 
-🎓 BS Computer Science Student at COMSATS University Islamabad (GPA: 4.00/4.00)
+🎓 BS Computer Science Student at COMSATS University Islamabad, Wah Campus.
 
-🤖 Passionate about Machine Learning, NLP, and AI-driven solutions
+🤖 Passionate about Machine Learning, NLP, and AI-driven solutions.
 
-🚀 Hands-on experience in Chatbots, Data Analytics, Model Deployment & Predictive Modeling
+🚀 Hands-on experience in Chatbots, Data Analytics, Model Deployment & Predictive Modeling.
 
-🌍 Exploring FinTech, AI automation, and Data Science applications
+🌍 Exploring FinTech, AI automation, and Data Science applications.
 
 ## 🚀 Skills
 
@@ -234,7 +234,7 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <!-- --- -->
 
-<-- ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Github Stats
+<!-- ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Github Stats
 
 <div style="display: flex; justify-content: space-between;">
  <div style="flex: 1; margin-right: 10px;">
@@ -253,4 +253,5 @@ I am a `Data Science student` <img src="https://media.giphy.com/media/WUlplcMpOC
 </div> -->
 
 <!-- --- -->
+
 
